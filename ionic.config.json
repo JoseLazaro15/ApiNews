@@ -1,0 +1,7 @@
+{
+  "name": "ApiNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
